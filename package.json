@@ -1,7 +1,7 @@
 {
   "name": "octo-racio",
   "version": "1.0.0",
-  "description": "Simple Money Tracing Tool",
+  "description": "A wallet tracing tool that learns &amp; recommends the category of expenses based on the vendor's name in Saudi Arabia",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/hawi19952/octo-racio.git"
   },
-  "author": "Hawi19952",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hawi19952/octo-racio/issues"
   },
   "homepage": "https://github.com/hawi19952/octo-racio#readme",
-  "dependencies": {
-    "vue": "^2.6.14"
+  "devDependencies": {
+    "typescript": "^4.4.3"
   }
 }
