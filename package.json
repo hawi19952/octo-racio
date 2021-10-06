@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hawi19952/octo-racio/issues"
   },
-  "homepage": "https://github.com/hawi19952/octo-racio#readme"
+  "homepage": "https://github.com/hawi19952/octo-racio#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
